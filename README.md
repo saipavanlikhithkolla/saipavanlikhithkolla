@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saipavanlikhithkolla
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript for frontend developement 
+- 🌱 I’m currently learning React for frontend developement 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through...
 mail id: saipavanlikhithkolla2002@gmail.com
